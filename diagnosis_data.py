@@ -97,7 +97,7 @@ pe_by_diagnosis = {
     "Hypothermia": ["Cold extremities", "Bradycardia", "Shivering"],
     "Dehydration": ["Dry mucous membranes", "Poor skin turgor"],
     "Electrolyte imbalance": ["Muscle weakness", "Arrhythmia signs"],
-    "Sepsis": ["Fever", "Hypotension", "Tachycardia"]
+    "Sepsis": ["Fever", "Hypotension", "Tachycardia"],
     "Allergic rhinitis": ["Pale boggy turbinates", "Nasal congestion", "Allergic shiners"],
     "Sinusitis": ["Facial tenderness", "Purulent nasal discharge"],
     "Otitis media": ["Bulging tympanic membrane", "Decreased hearing"],
@@ -191,7 +191,7 @@ pe_by_diagnosis = {
     "Kwashiorkor": ["Edema", "Skin/hair changes"],
     "Down syndrome": ["Flat facial profile", "Simian crease"],
     "Turner syndrome": ["Short stature", "Webbed neck", "Shield chest"],
-    "Klinefelter syndrome": ["Small testes", "Gynecomastia", "Tall stature"]
+    "Klinefelter syndrome": ["Small testes", "Gynecomastia", "Tall stature"],
     "Marfan syndrome": ["Tall stature", "Arm span > height", "Aortic murmur", "Lens dislocation"],
     "Ehlers-Danlos syndrome": ["Joint hypermobility", "Skin hyperextensibility", "Easy bruising"],
     "Neurofibromatosis type 1": ["Café-au-lait spots", "Neurofibromas", "Axillary freckling"],
@@ -280,7 +280,7 @@ pe_by_diagnosis = {
     "Liver transplant": ["Abdominal scar", "Jaundice", "Hepatomegaly"],
     "Heart transplant": ["Surgical scar", "Bradycardia", "Muffled heart sounds"],
     "Lung transplant": ["Diminished breath sounds", "Incision site"],
-    "Dialysis patient": ["AV fistula", "Edema", "Uremic frost"]
+    "Dialysis patient": ["AV fistula", "Edema", "Uremic frost"],
     "Hemodialysis complications": ["AV fistula thrill", "Hypotension", "Edema"],
     "Peritoneal dialysis complications": ["Peritonitis signs", "Abdominal tenderness"],
     "Organ rejection (general)": ["Fever", "Tender transplant site"],
@@ -370,7 +370,7 @@ pe_by_diagnosis = {
     "Trichomoniasis": ["Frothy green discharge", "Strawberry cervix"],
     "Bacterial vaginosis": ["Thin grey discharge", "Fishy odor"],
     "Candidal vaginitis": ["White clumpy discharge", "Itchy vulva"],
-    "Pelvic inflammatory disease": ["Cervical motion tenderness", "Fever", "Adnexal tenderness"]
+    "Pelvic inflammatory disease": ["Cervical motion tenderness", "Fever", "Adnexal tenderness"],
     "Genital herpes": ["Painful genital ulcers", "Tender lymphadenopathy"],
     "Chancroid": ["Painful genital ulcer", "Fluctuant bubo"],
     "Lymphogranuloma venereum": ["Small painless ulcer", "Tender inguinal lymphadenopathy"],
